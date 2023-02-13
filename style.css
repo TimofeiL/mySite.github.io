@@ -15,6 +15,7 @@ nav{
     height: 20mm;
     padding: 5mm;
     border-bottom: 1mm solid gray;
+    display: flex;
 }
 nav .links{
     margin-left: 10mm; 
